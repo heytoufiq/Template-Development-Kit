@@ -9,15 +9,25 @@ http://hasinhayder.github.io/essential-jquery-plugins/
 
 ###Slideshow And Scroller
 [lightslider](http://sachinchoolur.github.io/lightslider/):JQuery lightSlider is a lightweight responsive Content slider with carousel thumbnails navigation
+
 [swiper](http://www.idangero.us/swiper/demos/#.VQw-fY7_GUk):Modern Mobile Touch Slider
+
 [Sequence](https://github.com/IanLunn/Sequence):Sequence - The Responsive Slider with Advanced CSS3 Transitions
+
 [slick](https://github.com/ittoufiq/slick):the last carousel you'll ever need
+
 [PhotoSwipe](https://github.com/ittoufiq/PhotoSwipe):JavaScript image gallery for mobile and desktop, modular, framework independent 
+
 [ParallaxContentSlider](http://tympanus.net/Development/ParallaxContentSlider/):Parallax Content Slider with CSS3 and jQuery
+
 [lightGallery](http://sachinchoolur.github.io/lightGallery/):JQuery lightGallery is a lightweight jQuery lightbox gallery for displaying image and video gallery
+
 [lightbox](http://getuikit.com/docs/lightbox.html)Create a fancy lightbox for images and videos utilizing the Modal component.
+
 [groovy-workshop](http://mosampaio.github.io/groovy-workshop/#/10): The HTML Presentation Framework
+
 [reveal](https://github.com/hakimel/reveal.js): The HTML Presentation Framework
+
 [particleground](https://github.com/jnicol/particleground): A jQuery plugin for snazzy background particle systems
 
 
