@@ -8,7 +8,7 @@ Sticky
 https://github.com/leafo/sticky-kit
 
 ###Slideshow And Scroller
-[lightslider]http://sachinchoolur.github.io/lightslider/
+[lightslider](http://sachinchoolur.github.io/lightslider/)
 [swiper]http://www.idangero.us/swiper/demos/#.VQw-fY7_GUk
 [Sequence]https://github.com/IanLunn/Sequence
 [slick]https://github.com/ittoufiq/slick
