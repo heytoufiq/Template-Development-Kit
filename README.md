@@ -7,7 +7,7 @@ https://github.com/sakamies/vocabs
 Sticky
 https://github.com/leafo/sticky-kit
 
-Slideshow And Scroller
+###Slideshow And Scroller
 http://sachinchoolur.github.io/lightslider/
 http://www.idangero.us/swiper/demos/#.VQw-fY7_GUk
 https://github.com/IanLunn/Sequence
