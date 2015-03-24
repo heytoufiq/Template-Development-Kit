@@ -8,10 +8,10 @@ Sticky
 https://github.com/leafo/sticky-kit
 
 ###Slideshow And Scroller
-http://sachinchoolur.github.io/lightslider/
-http://www.idangero.us/swiper/demos/#.VQw-fY7_GUk
-https://github.com/IanLunn/Sequence
-https://github.com/ittoufiq/slick
+[lightslider]http://sachinchoolur.github.io/lightslider/
+[swiper]http://www.idangero.us/swiper/demos/#.VQw-fY7_GUk
+[Sequence]https://github.com/IanLunn/Sequence
+[slick]https://github.com/ittoufiq/slick
 https://github.com/ittoufiq/PhotoSwipe
 http://tympanus.net/Development/ParallaxContentSlider/
 http://sachinchoolur.github.io/lightGallery/
