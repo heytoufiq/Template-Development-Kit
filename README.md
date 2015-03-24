@@ -1,6 +1,6 @@
 http://hasinhayder.github.io/essential-jquery-plugins/
 
-CSS Vocabulary
+###CSS Vocabulary
 https://github.com/sakamies/vocabs
 
 
@@ -21,113 +21,113 @@ https://github.com/hakimel/reveal.js
 https://github.com/jnicol/particleground
 
 
-ihover ****
+###ihover ****
 https://github.com/gudh/ihover
 
 
-Carousels
+###Carousels
 
 
-CSS3 Animations & Transitions
+###CSS3 Animations & Transitions
 
 
 
-Events
+###Events
 
 
-Filtering & Sorting
+###Filtering & Sorting
 
 
-Form Elements - Select Box
+###Form Elements - Select Box
 https://github.com/fronteed/iCheck
 
 
-Form Validation
+###Form Validation
 
 
-Image Processing, Canvas & SVG
+###Image Processing, Canvas & SVG
 
 
-Layout
+###Layout
 
 
-Loading Kit
+###Loading Kit
 
 
-Mouse
+###Mouse
 
 
-Sliders
+###Sliders
 
 
-Sound & Audio
+###Sound & Audio
 
 
-Typography
+###Typography
 http://bigspaceship.github.io/shine.js/
 
 
-UI Elements - Calendar
+###UI Elements - Calendar
 
 
 
-UI Elements - Images, Galleries & Photos
+###UI Elements - Images, Galleries & Photos
 
 
 
-UI Elements - Lightboxes & Modals
+###UI Elements - Lightboxes & Modals
 
 
 
-UI Elements - Others
+###UI Elements - Others
 
 
 
-Iconic Font
+###Iconic Font
 
 
 
-UI Elements - Responsive Menu
+###UI Elements - Responsive Menu
 
 
-UI Transition 
+###UI Transition 
 https://github.com/julianshapiro/velocity
 
 
-UI Elements - Scrollers
+###UI Elements - Scrollers
 https://github.com/kenwheeler/slick
 
 
-UI Elements - Social Sharing
+###UI Elements - Social Sharing
 
 
 
-UI Elements - Scrollers
+###UI Elements - Scrollers
 https://github.com/inuyaksa/jquery.nicescroll
 
 
 
-UI Elements - Tables
+###UI Elements - Tables
 
 
 
 
-UI Elements - Toolbar
+###UI Elements - Toolbar
 
 
 
 
-UI Elements - Tabs
+###UI Elements - Tabs
 https://github.com/samsono/Easy-Responsive-Tabs-to-Accordion
 
 
 
 
-UI Elements - WYSIWYG
+###UI Elements - WYSIWYG
 
 
 
-UI Elements-smooth scroll
+###UI Elements-smooth scroll
 www.thepetedesign.com/demos/onepage_scroll_demo.html
 http://www.thepetedesign.com/demos/subscribe-better_demo.html
 https://github.com/lukehaas/Scrollify
@@ -135,16 +135,16 @@ https://github.com/Victa/scrolly
 https://github.com/alvarotrigo/multiscroll.js
 
 
-UI Materials
+###UI Materials
 http://material-ui.com/#/components/paper
 
 
-UI KIT
+###UI KIT
 https://github.com/eduardolundgren/tracking.js
 
 
 
-Gallery
+###Gallery
 http://photoswipe.com/
 https://github.com/dimsemenov/Magnific-Popup
 https://github.com/miromannino/Justified-Gallery
@@ -153,7 +153,7 @@ https://github.com/Formstone/Boxer
 https://github.com/dimsemenov/Magnific-Popup
 
 
-Off Canvas Menu/ Navigation
+###Off Canvas Menu/ Navigation
 http://takien.github.io/jPushMenu/
 http://formstone.it/components/Shifter/demo/index.html
 http://ascott1.github.io/bigSlide.js
@@ -163,7 +163,7 @@ https://github.com/codrops/Blueprint-SlidePushMenus
 https://github.com/BeSite/jQuery.mmenu
 
 
-Different Animation
+###Different Animation
 https://github.com/ittoufiq/animsition
 https://github.com/ittoufiq/animatedModal.js
 http://www.transformicons.com/
@@ -183,96 +183,96 @@ https://github.com/daneden/animate.css
 https://github.com/h5bp/Effeckt.css
 
 
-Popup Message Box
+###Popup Message Box
 https://github.com/ittoufiq/sweetalert
 
-Editor (Like Tinymce)
+###Editor (Like Tinymce)
 https://github.com/ittoufiq/Squire
 
-Button
+###Button
 http://material-ui.com/#/components/buttons
 
 
-Parallux
+###Parallux
 https://github.com/ittoufiq/multiscroll.js
 http://www.thepetedesign.com/demos/onepage_scroll_demo.html
 http://ianlunn.co.uk/plugins/jquery-parallax/
 https://github.com/IanLunn/jQuery-Parallax
 
-Heading
+###Heading
 http://markgoodyear.com/labs/headhesive/
 https://github.com/WickyNilliams/headroom.js
 
-Charts
+###Charts
 http://www.chartjs.org/
 https://github.com/rendro/easy-pie-chart
 http://morrisjs.github.io/morris.js/
 
-Swiitch
+###Swiitch
 http://www.bootstrap-switch.org/examples.html
 
-Map
+###Map
 http://jvectormap.com/
 https://github.com/danielemoraschi/maplace.js
 https://github.com/jbdemonte/gmap3
 https://github.com/hpneo/gmaps
 
-Formbuilder
+###Formbuilder
 http://getfuelux.com/formbuilder.html
 
-Content Popup
+###Content Popup
 http://boedesign.com/
 
 
-Customize Check Button
+###Customize Check Button
 http://fronteed.com/iCheck/#demo
 
-Slim Scroll
+###Slim Scroll
 https://github.com/rochal/jQuery-slimScroll
 
-Underline js
+###Underline js
 https://github.com/wentin/underlineJS
 
-Lebel Compelete
+###Lebel Compelete
 https://github.com/aishek/jquery-animateNumber
 
 
-One#page
+###One#page
 https://github.com/davist11/jQuery-One-Page-Nav
 
 
-Email Template
+###Email Template
 https://github.com/leemunroe/html-email-template
 
 
-Smooth Scroll
+###Smooth Scroll
 https://github.com/cferdinandi/smooth-scroll
 https://github.com/kswedberg/jquery-smooth-scroll
 
-progress
+###progress
 http://usablica.github.io/progress.js/
 https://github.com/minddust/bootstrap-progressbar
 
 
-image kit
+###image kit
 https://github.com/imulus/retinajs
 
 
-video
+###video
 https://github.com/dfcb/BigVideo.js
 
 
-Loaders
+###Loaders
 https://github.com/Gaya/queryloader2
 https://github.com/tobiasahlin/SpinKit
 
-Column/grid
+###Column/grid
 https://github.com/rnmp/salvattore
 https://github.com/ducksboard/gridster.js
 
 
-Tooltip Alart Js
+###Tooltip Alart Js
 https://github.com/EragonJ/Trip.js
 
-Shadow
+###Shadow
 https://github.com/Indamix/real-shadow
